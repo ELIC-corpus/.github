@@ -7,3 +7,5 @@ The ELIC Corpus will incorporate 60 hours of audio interview data (15 hours per 
 This project will also adapt open-source tools and create new resources for language documentation, which will be made freely available so that they can be used in other language documentation projects.
 
 For more information, see the project website: https://elic-corpus.uga.edu
+
+This material is based upon work supported by the National Science Foundation under Grant No. BCS-2220425. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation. 
