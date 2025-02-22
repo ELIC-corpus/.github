@@ -14,6 +14,6 @@ Overview of the repositories in this project:
 2. ASR-testing-finetuning-Zhang: not currently used in the ELIC project
 3. ELAN-Annotation (Python)
 4. Praat-segmentation (Praat)
-5. Wav2Vec2_ASR: not yet publicly available. 
+5. Wav2Vec2_ASR: to be made publicly available when testing is completed. This repository houses computational tools for automatically diarizing, segmenting, and transcribing audio files with a fine-tuned wav2vec2-bert model, and a Jupyter tutorial on how to fine-tune one. 
 
 This material is based upon work supported by the National Science Foundation under Grant No. BCS-2220425. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation. 
