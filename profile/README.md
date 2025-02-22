@@ -10,6 +10,10 @@ For more information, see the project website: https://elic-corpus.uga.edu
 
 Overview of the repositories in this project:
 
-ASR (rename this) - not currently used
+1. Anonymization (Praat, Python)
+2. ASR-testing-finetuning-Zhang: not currently used in the ELIC project
+3. ELAN-Annotation (Python)
+4. Praat-segmentation (Praat)
+5. Wav2Vec2_ASR: not yet publicly available. 
 
 This material is based upon work supported by the National Science Foundation under Grant No. BCS-2220425. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation. 
